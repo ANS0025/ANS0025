@@ -1,7 +1,7 @@
 ### About Me: 
 💻 Currently working as a Backend Developer<br>
 🎓 Former 42Tokyo Student<br>
-🌱 I’m currently learning Python and AWS<br>
+🌱 Currently learning Python and AWS<br>
 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/akihito-niko-seki-92a22a158/)<br>
 
 
