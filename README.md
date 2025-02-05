@@ -1,7 +1,7 @@
 ### About Me: 
 💻 Currently working as a Full-stack Software Engineer<br>
 🎓 Former 42Tokyo Student<br>
-🌱 Currently learning AI/ML
+🌱 Currently learning AI/ML<br>
 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/akihito-niko-seki-92a22a158/)<br>
 
 
